@@ -23,7 +23,7 @@
     "@esri/arcgis-rest-feature-layer": "^2.8.1",
     "@esri/arcgis-rest-request": "^2.8.2",
     "bootstrap": "^4.4.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "ngx-spinner": "^8.1.0",
     "popper.js": "^1.16.1",
     "rxjs": "~6.5.4",
